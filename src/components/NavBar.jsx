@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <header>
         <div className="container">
-            <Link to='/'>
+            <Link to='/Tasky/'>
                 <h1>Tasky</h1>
             </Link>
         </div>

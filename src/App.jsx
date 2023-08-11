@@ -18,7 +18,7 @@ function App() {
               <NavBar />
               <div className="pages">
                 <Routes>
-                  <Route path="/" element={<Home baseURL={baseURL} />} />
+                  <Route path="/Tasky/" element={<Home baseURL={baseURL} />} />
                 </Routes>
               </div>
             </BrowserRouter>
